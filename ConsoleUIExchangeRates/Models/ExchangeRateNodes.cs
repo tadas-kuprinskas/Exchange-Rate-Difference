@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 namespace ConsoleUIExchangeRates.Models
 {
     
-    public class ExchangeRate
+    public class ExchangeRateNodes
     {
         public static XmlNodeList GetXmlNodeList(XmlDocument doc, string output)
         { 

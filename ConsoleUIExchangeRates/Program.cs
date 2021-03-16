@@ -27,8 +27,8 @@ namespace ConsoleUIExchangeRates
                 XmlDocument doc = Factory.GetXmlDocument();
                 XmlDocument doc1 = Factory.GetXmlDocument();
 
-                var nodes = ExchangeRate.GetXmlNodeList(doc, output); 
-                var nodesPrevious = ExchangeRate.GetPreviousDayXmlNodeList(doc1, output);
+                var nodes = ExchangeRateNodes.GetXmlNodeList(doc, output); 
+                var nodesPrevious = ExchangeRateNodes.GetPreviousDayXmlNodeList(doc1, output);
 
                 PrintNodes.PrintNodesToConsole(nodes, nodesPrevious);
 
