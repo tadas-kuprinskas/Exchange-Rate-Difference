@@ -1,182 +1,180 @@
-2005.08.07 AED
+2008.03.06 AED
 Changed since yesterday: 0.0000
-2005.08.07 ALL
+2008.03.06 AFN
 Changed since yesterday: 0.0000
-2005.08.07 AMD
+2008.03.06 ALL
 Changed since yesterday: 0.0000
-2005.08.07 ARS
+2008.03.06 AMD
 Changed since yesterday: 0.0000
-2005.08.07 AUD
+2008.03.06 ARS
 Changed since yesterday: 0.0000
-2005.08.07 AZN
+2008.03.06 AUD
+Changed since yesterday: 0.0097
+2008.03.06 AZN
 Changed since yesterday: 0.0000
-2005.08.07 BAM
+2008.03.06 BAM
 Changed since yesterday: 0.0000
-2005.08.07 BDT
+2008.03.06 BDT
 Changed since yesterday: 0.0000
-2005.08.07 BGN
+2008.03.06 BGN
+Changed since yesterday: -0.0004
+2008.03.06 BHD
 Changed since yesterday: 0.0000
-2005.08.07 BHD
+2008.03.06 BYR
+Changed since yesterday: -0.0017
+2008.03.06 BOB
 Changed since yesterday: 0.0000
-2005.08.07 BYR
+2008.03.06 BRL
 Changed since yesterday: 0.0000
-2005.08.07 BOB
+2008.03.06 CAD
+Changed since yesterday: 0.0025
+2008.03.06 CHF
+Changed since yesterday: -0.0017
+2008.03.06 CLP
 Changed since yesterday: 0.0000
-2005.08.07 BRL
+2008.03.06 CNY
+Changed since yesterday: -0.0053
+2008.03.06 COP
 Changed since yesterday: 0.0000
-2005.08.07 CAD
+2008.03.06 CZK
+Changed since yesterday: 0.0023
+2008.03.06 DKK
+Changed since yesterday: 0.0006
+2008.03.06 DZD
 Changed since yesterday: 0.0000
-2005.08.07 CHF
+2008.03.06 EEK
 Changed since yesterday: 0.0000
-2005.08.07 CYP
+2008.03.06 EGP
 Changed since yesterday: 0.0000
-2005.08.07 CLP
+2008.03.06 ETB
 Changed since yesterday: 0.0000
-2005.08.07 CNY
+2008.03.06 EUR
 Changed since yesterday: 0.0000
-2005.08.07 COP
+2008.03.06 GBP
+Changed since yesterday: 0.0167
+2008.03.06 GEL
 Changed since yesterday: 0.0000
-2005.08.07 CZK
+2008.03.06 GNF
 Changed since yesterday: 0.0000
-2005.08.07 DKK
+2008.03.06 HKD
 Changed since yesterday: 0.0000
-2005.08.07 DZD
+2008.03.06 HRK
 Changed since yesterday: 0.0000
-2005.08.07 EEK
+2008.03.06 HUF
+Changed since yesterday: 0.0046
+2008.03.06 IDR
 Changed since yesterday: 0.0000
-2005.08.07 EGP
+2008.03.06 YER
 Changed since yesterday: 0.0000
-2005.08.07 ETB
+2008.03.06 ILS
 Changed since yesterday: 0.0000
-2005.08.07 EUR
+2008.03.06 INR
 Changed since yesterday: 0.0000
-2005.08.07 GBP
+2008.03.06 IQD
 Changed since yesterday: 0.0000
-2005.08.07 GEL
+2008.03.06 IRR
 Changed since yesterday: 0.0000
-2005.08.07 GNF
+2008.03.06 ISK
+Changed since yesterday: 0.0047
+2008.03.06 JOD
 Changed since yesterday: 0.0000
-2005.08.07 HKD
+2008.03.06 JPY
+Changed since yesterday: 0.0074
+2008.03.06 KES
 Changed since yesterday: 0.0000
-2005.08.07 HRK
+2008.03.06 KGS
 Changed since yesterday: 0.0000
-2005.08.07 HUF
+2008.03.06 KRW
 Changed since yesterday: 0.0000
-2005.08.07 IDR
+2008.03.06 KWD
 Changed since yesterday: 0.0000
-2005.08.07 YER
+2008.03.06 KZT
+Changed since yesterday: -0.0025
+2008.03.06 LBP
 Changed since yesterday: 0.0000
-2005.08.07 ILS
+2008.03.06 LKR
 Changed since yesterday: 0.0000
-2005.08.07 INR
+2008.03.06 LVL
+Changed since yesterday: 0.0006
+2008.03.06 MAD
 Changed since yesterday: 0.0000
-2005.08.07 IRR
+2008.03.06 MDL
+Changed since yesterday: -0.0083
+2008.03.06 MGA
 Changed since yesterday: 0.0000
-2005.08.07 ISK
+2008.03.06 MYR
 Changed since yesterday: 0.0000
-2005.08.07 JOD
+2008.03.06 MKD
 Changed since yesterday: 0.0000
-2005.08.07 JPY
+2008.03.06 MNT
 Changed since yesterday: 0.0000
-2005.08.07 KES
+2008.03.06 MXN
 Changed since yesterday: 0.0000
-2005.08.07 KGS
+2008.03.06 MZN
 Changed since yesterday: 0.0000
-2005.08.07 KRW
+2008.03.06 NOK
+Changed since yesterday: -0.0113
+2008.03.06 NZD
 Changed since yesterday: 0.0000
-2005.08.07 KWD
+2008.03.06 PAB
 Changed since yesterday: 0.0000
-2005.08.07 KZT
+2008.03.06 PEN
 Changed since yesterday: 0.0000
-2005.08.07 LBP
+2008.03.06 PHP
 Changed since yesterday: 0.0000
-2005.08.07 LKR
+2008.03.06 PKR
 Changed since yesterday: 0.0000
-2005.08.07 LVL
+2008.03.06 PLN
+Changed since yesterday: 0.0365
+2008.03.06 QAR
 Changed since yesterday: 0.0000
-2005.08.07 MAD
+2008.03.06 RON
+Changed since yesterday: -0.0176
+2008.03.06 RSD
 Changed since yesterday: 0.0000
-2005.08.07 MDL
+2008.03.06 RUB
+Changed since yesterday: -0.0128
+2008.03.06 SAR
 Changed since yesterday: 0.0000
-2005.08.07 MGA
+2008.03.06 SEK
+Changed since yesterday: 0.0013
+2008.03.06 SGD
 Changed since yesterday: 0.0000
-2005.08.07 MYR
+2008.03.06 SYP
 Changed since yesterday: 0.0000
-2005.08.07 MKD
+2008.03.06 SKK
+Changed since yesterday: -0.0014
+2008.03.06 THB
 Changed since yesterday: 0.0000
-2005.08.07 MNT
+2008.03.06 TJS
 Changed since yesterday: 0.0000
-2005.08.07 MTL
+2008.03.06 TMT
 Changed since yesterday: 0.0000
-2005.08.07 MXN
+2008.03.06 TND
 Changed since yesterday: 0.0000
-2005.08.07 MZN
+2008.03.06 TRY
+Changed since yesterday: 0.0052
+2008.03.06 TWD
 Changed since yesterday: 0.0000
-2005.08.07 NOK
+2008.03.06 TZS
 Changed since yesterday: 0.0000
-2005.08.07 NZD
+2008.03.06 UAH
+Changed since yesterday: -0.0077
+2008.03.06 UYU
 Changed since yesterday: 0.0000
-2005.08.07 PAB
+2008.03.06 USD
+Changed since yesterday: -0.0037
+2008.03.06 UZS
 Changed since yesterday: 0.0000
-2005.08.07 PEN
+2008.03.06 VEF
 Changed since yesterday: 0.0000
-2005.08.07 PHP
+2008.03.06 VND
 Changed since yesterday: 0.0000
-2005.08.07 PKR
+2008.03.06 XAF
 Changed since yesterday: 0.0000
-2005.08.07 PLN
+2008.03.06 XDR
+Changed since yesterday: -0.0085
+2008.03.06 XOF
 Changed since yesterday: 0.0000
-2005.08.07 QAR
-Changed since yesterday: 0.0000
-2005.08.07 RON
-Changed since yesterday: 0.0000
-2005.08.07 RSD
-Changed since yesterday: 0.0000
-2005.08.07 RUB
-Changed since yesterday: 0.0000
-2005.08.07 SAR
-Changed since yesterday: 0.0000
-2005.08.07 SEK
-Changed since yesterday: 0.0000
-2005.08.07 SGD
-Changed since yesterday: 0.0000
-2005.08.07 SYP
-Changed since yesterday: 0.0000
-2005.08.07 SIT
-Changed since yesterday: 0.0000
-2005.08.07 SKK
-Changed since yesterday: 0.0000
-2005.08.07 THB
-Changed since yesterday: 0.0000
-2005.08.07 TJS
-Changed since yesterday: 0.0000
-2005.08.07 TMT
-Changed since yesterday: 0.0000
-2005.08.07 TND
-Changed since yesterday: 0.0000
-2005.08.07 TRY
-Changed since yesterday: 0.0000
-2005.08.07 TWD
-Changed since yesterday: 0.0000
-2005.08.07 TZS
-Changed since yesterday: 0.0000
-2005.08.07 UAH
-Changed since yesterday: 0.0000
-2005.08.07 UYU
-Changed since yesterday: 0.0000
-2005.08.07 USD
-Changed since yesterday: 0.0000
-2005.08.07 UZS
-Changed since yesterday: 0.0000
-2005.08.07 VEB
-Changed since yesterday: 0.0000
-2005.08.07 VND
-Changed since yesterday: 0.0000
-2005.08.07 XAF
-Changed since yesterday: 0.0000
-2005.08.07 XDR
-Changed since yesterday: 0.0000
-2005.08.07 XOF
-Changed since yesterday: 0.0000
-2005.08.07 ZAR
+2008.03.06 ZAR
 Changed since yesterday: 0.0000

@@ -17,7 +17,7 @@ namespace ConsoleUIExchangeRates
     class Program
     {
         static void Main(string[] args)
-        {
+        {            
             try
             {
                 Message.EnterMessage(Message.enterDate);
@@ -27,17 +27,18 @@ namespace ConsoleUIExchangeRates
                 XmlDocument doc = Factory.GetXmlDocument();
                 XmlDocument doc1 = Factory.GetXmlDocument();
 
-                var nodes = ExchangeRateNodes.GetXmlNodeList(doc, output); 
+                var nodes = ExchangeRateNodes.GetXmlNodeList(doc, output);
                 var nodesPrevious = ExchangeRateNodes.GetPreviousDayXmlNodeList(doc1, output);
 
                 PrintNodes.PrintNodesToConsole(nodes, nodesPrevious);
 
                 PrintNodes.PrintNodesToFile(nodes, nodesPrevious);
+                  
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-            }
+            }           
         }
     }
 
